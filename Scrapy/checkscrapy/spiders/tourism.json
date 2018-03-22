@@ -1,0 +1,665 @@
+
+[{
+    "URL": "http://tourism.rajasthan.gov.in/",
+    "Link": ""
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/",
+    "Link": "Rajasthan Tourism Home"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/tourist-destinations.html",
+    "Link": "Destinations"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/ajmer.html",
+    "Link": "Ajmer"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html",
+    "Link": "Alwar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/banswara.html",
+    "Link": "banswara"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/baran.html",
+    "Link": "Baran"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/barmer.html",
+    "Link": "Barmer"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bharatpur.html",
+    "Link": "Bharatpur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bhilwara.html",
+    "Link": "Bhilwara"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html",
+    "Link": "Bikaner"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html",
+    "Link": "Bundi"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html",
+    "Link": "Chittorgarh"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dausa.html",
+    "Link": "Dausa"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dholpur.html",
+    "Link": "Dholpur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dungarpur.html",
+    "Link": "Dungarpur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/hanumangarh.html",
+    "Link": "Hanumangarh"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html",
+    "Link": "Jaipur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html",
+    "Link": "Jaisalmer"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jalore.html",
+    "Link": "Jalore"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jhalawar.html",
+    "Link": "Jhalawar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html",
+    "Link": "Jodhpur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/karauli.html",
+    "Link": "Karauli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/kota.html",
+    "Link": "Kota"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/mount-abu.html",
+    "Link": "Mount Abu"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/nagaur.html",
+    "Link": "Nagaur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/pali.html",
+    "Link": "Pali"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/pushkar.html",
+    "Link": "Pushkar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/rajsamand.html",
+    "Link": "Rajsamand"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sawaimadhopur.html",
+    "Link": "Sawaimadhopur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/shekhawati.html",
+    "Link": "Shekhawati"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sriganganagar.html",
+    "Link": "Sriganganagar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/tonk.html",
+    "Link": "Tonk"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html",
+    "Link": "Udaipur"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/forts.html",
+    "Link": "Forts"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dholpur.html#a-ride-around-the-ramsagar-sanctuary",
+    "Link": "A ride around the Ramsagar Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sriganganagar.html#anupgarh-fort",
+    "Link": "Anupgarh fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bhilwara.html#badnore-fort",
+    "Link": "Badnore Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#bala-qila",
+    "Link": "Bala Qila"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/barmer.html#barmer-fort---garh-temple",
+    "Link": "Barmer Fort & Garh Temple"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/hanumangarh.html#bhatner-fort",
+    "Link": "Bhatner Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#chittorgarh-fort",
+    "Link": "Chittorgarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/karauli.html#dev-giri-fort---utgir",
+    "Link": "Dev Giri Fort & Utgir"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jhalawar.html#gagron-fort",
+    "Link": "Gagron Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/kota.html#garh-palace",
+    "Link": "Garh Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/baran.html#gugor-fort",
+    "Link": "Gugor Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#hill-fort-kesroli",
+    "Link": "Hill Fort Kesroli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#jaigarh-fort",
+    "Link": "Jaigarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#jaisalmer-fort",
+    "Link": "Jaisalmer Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jalore.html#jalore-fort",
+    "Link": "Jalore Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jhalawar.html#jhalawar-fort",
+    "Link": "Jhalawar Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/barmer.html#juna-fort---temple",
+    "Link": "Juna fort & Temple"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#junagarh-fort",
+    "Link": "Junagarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sawaimadhopur.html#khandhar-fort",
+    "Link": "Khandhar Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#khejarla-fort",
+    "Link": "Khejarla Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/nagaur.html#khimsar-fort",
+    "Link": "Khimsar Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/kumbhalgarh-fort.html",
+    "Link": "Kumbhalgarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/shekhawati.html#laxmangarh-fort",
+    "Link": "Laxmangarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bharatpur.html#lohagarh-fort",
+    "Link": "Lohagarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#mehrangarh-fort",
+    "Link": "Mehrangarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/nagaur.html#nagaur-fort",
+    "Link": "Nagaur Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#nahargarh-fort",
+    "Link": "NAHARGARH FORT"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/baran.html#nahargarh-fort",
+    "Link": "Nahargarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#neemrana-fort",
+    "Link": "Neemrana Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sawaimadhopur.html#ranthambore-fort",
+    "Link": "Ranthambore fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/shekhawati.html#ratangarh-fort",
+    "Link": "Ratangarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/baran.html#shergarh-fort",
+    "Link": "Shergarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dholpur.html#shergarh-fort",
+    "Link": "Shergarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html#taragarh-fort",
+    "Link": "Taragarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/karauli.html#timangarh-fort",
+    "Link": "Timangarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/parks-and-wildlife.html",
+    "Link": "Wildlife"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bharatpur.html#band-baretha",
+    "Link": "Band Baretha"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#desert-national-park",
+    "Link": "Desert National Park"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#gajner-wildlife-sanctuary",
+    "Link": "Gajner Wildlife Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/karauli.html#kaila-devi-sanctuary",
+    "Link": "Kaila Devi Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bharatpur.html#keoladeo-ghana-national-park",
+    "Link": "Keoladeo Ghana National Park"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#machiya-safari-park",
+    "Link": "Machiya Safari Park"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/kota.html#mukundara-tiger-reserve",
+    "Link": "Mukundara Tiger Reserve"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#nahargarh-biological-park",
+    "Link": "NAHARGARH BIOLOGICAL PARK"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html#ramgarh-vishdhari-sanctuary",
+    "Link": "Ramgarh Vishdhari Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sawaimadhopur.html#ranthambore",
+    "Link": "Ranthambore"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#sariska-tiger-reserve",
+    "Link": "Sariska Tiger Reserve"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/baran.html#shergarh-sanctuary-",
+    "Link": "Shergarh Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/baran.html#sorsan-wildlife-sanctuary",
+    "Link": "Sorsan Wildlife Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/shekhawati.html#tal-chhapar-sanctuary",
+    "Link": "Tal Chhapar Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dholpur.html#van-vihar-sanctuary",
+    "Link": "Van Vihar Sanctuary"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/palaces-to-visit.html",
+    "Link": "Palaces"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#alwar-city-palace",
+    "Link": "Alwar City Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#amber-palace",
+    "Link": "Amber Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dungarpur.html#badal-mahal",
+    "Link": "Badal Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#bhainsrorgarh-fort",
+    "Link": "Bhainsrorgarh Fort"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/karauli.html#bhanwar-vilas-palace",
+    "Link": "Bhanwar Vilas Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/karauli.html#city-palace",
+    "Link": "City Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dholpur.html#city-palace",
+    "Link": "City Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#city-palace",
+    "Link": "CITY PALACE"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bharatpur.html#dholpur-palace",
+    "Link": "Dholpur Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#fateh-prakash-palace",
+    "Link": "Fateh Prakash Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#gajner-palace-and-lake",
+    "Link": "Gajner Palace and Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#jag-mandir",
+    "Link": "Jag Mandir"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/kota.html#jagmandir-palace",
+    "Link": "Jagmandir Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#jal-mahal",
+    "Link": "Jal Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dungarpur.html#juna-mahal",
+    "Link": "Juna Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/shekhawati.html#kanhaiyalal-bagla-haveli",
+    "Link": "Kanhaiyalal Bagla Haveli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#lake-palace",
+    "Link": "Lake Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#lalgarh-palace-and-museum",
+    "Link": "Lalgarh Palace and Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#laxmi-niwas-palace",
+    "Link": "Laxmi Niwas Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/pushkar.html#man-mahal",
+    "Link": "Man Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#mandir-palace",
+    "Link": "Mandir Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#monsoon-palace",
+    "Link": "Monsoon Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#moti-doongri",
+    "Link": "Moti Doongri"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#moti-doongri-ganesh-temple",
+    "Link": "MOTI DOONGRI Ganesh temple"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#moti-mahal",
+    "Link": "Moti Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#nagari",
+    "Link": "Nagari"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#nathmal-ji-ki-haveli",
+    "Link": "Nathmal Ji Ki Haveli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#patwon-ki-haveli",
+    "Link": "Patwon Ki Haveli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#phool-mahal",
+    "Link": "Phool Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/banswara.html#raj-mandir",
+    "Link": "Raj Mandir"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#rampuria-haveli",
+    "Link": "Rampuria Haveli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#rana-kumbha-palace",
+    "Link": "Rana Kumbha Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#rani-padmini%27s-palace",
+    "Link": "Rani Padmini's Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#ranisar-padamsar",
+    "Link": "Ranisar Padamsar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/chittorgarh.html#ratan-singh-palace",
+    "Link": "Ratan Singh Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#salim-singh-ki-haveli",
+    "Link": "Salim Singh Ki Haveli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#sardar-samand-lake-and-palace",
+    "Link": "Sardar Samand Lake and Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#sheesh-mahal",
+    "Link": "Sheesh Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#sisodia-rani-palace-and-garden",
+    "Link": "SISODIA RANI PALACE AND GARDEN"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html#sukh-mahal",
+    "Link": "Sukh Mahal"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/tonk.html#sunehri-kothi",
+    "Link": "Sunehri Kothi"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/sawaimadhopur.html#sunheri-kothi",
+    "Link": "Sunheri Kothi"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dungarpur.html#udai-bilas-palace",
+    "Link": "Udai Bilas Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#udaipur-city-palace",
+    "Link": "Udaipur City Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#umaid-bhawan-palace",
+    "Link": "Umaid Bhawan Palace"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/museums-to-visit.html",
+    "Link": "Museums"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#ahar-museum",
+    "Link": "Ahar Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/ajmer.html#ajmer-government-museum",
+    "Link": "Ajmer Government Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#albert-hall-museum--central-museum-",
+    "Link": "ALBERT HALL MUSEUM (Central Museum)"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#anokhi-museum-of-hand-printing",
+    "Link": "Anokhi Museum of Hand Printing"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#bagore-ki-haveli",
+    "Link": "Bagore ki Haveli"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bharatpur.html#bharatpur-palace-and-museum",
+    "Link": "Bharatpur Palace and Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#ganga-government-museum",
+    "Link": "Ganga Government Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dungarpur.html#government-archaeological-museum",
+    "Link": "Government Archaeological Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#hawa-mahal",
+    "Link": "HAWA MAHAL"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaipur.html#jaipur-wax-museum",
+    "Link": "JAIPUR WAX MUSEUM"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#jaisalmer-government-museum",
+    "Link": "Jaisalmer Government Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jhalawar.html#jhalawar-government-museum",
+    "Link": "Jhalawar Government Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#jodhpur-government-museum",
+    "Link": "Jodhpur Government Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/kota.html#maharao-madho-singh-museum",
+    "Link": "Maharao Madho Singh Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bikaner.html#prachina-museum",
+    "Link": "Prachina Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#shilpgram",
+    "Link": "Shilpgram"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/alwar.html#the-palace-museum",
+    "Link": "The Palace Museum"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/lakes-rivers-to-visit.html",
+    "Link": "Lakes"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/banswara.html#anand-sagar-lake",
+    "Link": "Anand Sagar Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/ajmer.html#anasagar-lake",
+    "Link": "Anasagar Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#balsamand-lake",
+    "Link": "Balsamand Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/banswara.html#diablab-lake",
+    "Link": "Diablab Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#doodh-talai-lake",
+    "Link": "Doodh Talai Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#fateh-sagar-lake",
+    "Link": "Fateh Sagar Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jaisalmer.html#gadisar-lake",
+    "Link": "Gadisar Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/dungarpur.html#gaib-sagar-lake",
+    "Link": "Gaib Sagar Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/udaipur.html#jaisamand-lake",
+    "Link": "Jaisamand Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/jodhpur.html#kailana-lake",
+    "Link": "Kailana Lake"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/ajmer.html#lake-foy-sagar",
+    "Link": "Lake Foy Sagar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html#lake-jait-sagar",
+    "Link": "Lake Jait Sagar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html#lake-kanak-sagar",
+    "Link": "Lake Kanak Sagar"
+  },
+  {
+    "URL": "http://tourism.rajasthan.gov.in/bundi.html#lake-nawal-sagar",
+    "Link": "Lake Nawal Sagar"
+  }
+]
+
+
+ 
